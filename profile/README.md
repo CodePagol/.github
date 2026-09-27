@@ -4,7 +4,7 @@
 Codepagol builds open-source Laravel packages and developer tools.
 
 ## Projects
-- pay-bridge - Laravel-based all payment gateway bridge (Upcoming)
+- pay-bridge - PHP/Laravel-based all payment gateway bridge
 - sms-bridge – Laravel SMS gateway bridge
 - ISP billing automation tools
 
